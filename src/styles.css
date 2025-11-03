@@ -1,0 +1,5 @@
+
+body { margin:0; font-family: Inter, system-ui, -apple-system, Arial; background: linear-gradient(180deg,#071021,#081227); color:#e6eef6; }
+.app { max-width:900px; margin:16px auto; padding:12px; }
+input { padding:8px; border-radius:8px; border:1px solid rgba(255,255,255,0.06); background:transparent; color:inherit; display:block; margin:8px 0; }
+button { padding:8px 12px; border-radius:8px; cursor:pointer; }
